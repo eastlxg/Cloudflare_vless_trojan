@@ -2,7 +2,7 @@
 import { connect } from "cloudflare:sockets";
  
 let Pswd = "trojan";
-const proxyIPs = ["ts.hpc.tw"]; //ts.hpc.tw edgetunnel.anycast.eu.org bestproxy.onecf.eu.org cdn-all.xn--b6gac.eu.org cdn.xn--b6gac.eu.org proxy.xxxxxxxx.tk
+const proxyIPs = ["129.146.46.164:443"]; //129.146.46.164:443 152.70.155.147:443 150.230.42.80:443 150.230.34.116:443 192.9.158.188:443
 let cn_hostnames = [''];
 let CDNIP = 'www.visa.com.sg'
 // http_ip
